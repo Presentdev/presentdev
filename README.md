@@ -16,7 +16,7 @@ Visit [My Personal Website](/) 💞
 [![YouTube](https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/DiscordBotDevelopers)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Presentdev)
 [![Github](https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Presentdev)
-[![Discord sunucumuz](https://img.shields.io/badge/saturn%20city%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JzprsDqPAC)
+[![Discord sunucumuz](https://img.shields.io/badge/present%20development%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JzprsDqPAC)
 
 [![Presentdev's Github stats](https://github-readme-stats.vercel.app/api?username=Presentdev&count_private=true&show_icons=true&theme=dark&hide_border=true)](#i̇şe-yarar-bağlantılar)
 [![Presentdev's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Presentdev&theme=dark&count_private=true&show_icons=true&hide_border=true)](#i̇şe-yarar-bağlantılar)
