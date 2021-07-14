@@ -1,9 +1,11 @@
-## About
-📫 I know several programming languages ​​and continue to learn. <br>🧪 Being a web developer is more suitable for me <br>🌊 My goals are to learn React and Rust
+# About
 
-Visit [My Personal Website](/) 💞
+<a href="https://falsisdev.ga"><img src="https://lanyard-profile-readme.vercel.app/api/539843855567028227?theme=dark&bg=181a22&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 
-<a href="https://github.com/presentdev"><img src="https://img.shields.io/github/followers/presentdev?style=for-the-badge"></a>
+Web & Full-Stack Developer - Interested in Front-End / Nodejs (married with nodejs). He likes to spend time on Discord. 
+He enjoy learning English. Turkish student and Amateur designer.
+He knows HTML - CSS - JS and he knows a little bit of GOLANG & PYTHON. He also wants to Learn C & TS. 
+He hates Tiktok and he deleted his Instagram because of it. His favorite apps are Github & Discord! And he loves watching anime!
 
 ## Bildiğim diller:
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50px"></img>](#bildiğim-diller)
